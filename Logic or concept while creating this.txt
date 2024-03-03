@@ -1,0 +1,20 @@
+Give both Class selector and Id selector in <h1 tag>
+
+# --> Id selector selects particular section.
+. --> Class selector selects whole section.
+
+Q.you have to make all images in a same size using CSS (without using HTML)?
+Ans:-
+if using CSS then simply write
+
+img{
+    width:100px;                 
+    height:100px;                ----> using CSS                                                
+}
+
+__________________________________________________________________________________
+if using HTML then simply
+
+<img src=""  width=100px height=100px alt="nikal"/>
+	
+
